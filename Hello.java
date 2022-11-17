@@ -1,7 +1,11 @@
 {
 Public static void main(String args[])
 {
-System.out.println(“hello from master local”);
+
+
+
+System.out.println(“hello from master origin”);
+
 
 }
 }
